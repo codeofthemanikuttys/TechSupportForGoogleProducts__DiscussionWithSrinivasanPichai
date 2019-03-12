@@ -6,4 +6,4 @@ I don't know what you people out there do, but whenever I have a tech support is
 
 I know there are other ways to do it, but this is my preferred method.
 
-(Please see a sample email I sent recently in the /data folder.)
+(Please see a sample email I sent recently in the /data folder. As I clarified, the screenshot is not a screenshot of my own computer -- it is a screenshot I downloaded from the Web.)
